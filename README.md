@@ -19,6 +19,4 @@ Este es un juego simple de naves espaciales desarrollado utilizando la librería
 
 1. Clona o descarga este repositorio en tu máquina local.
 2. Asegúrate de tener Python instalado. Si no lo tienes, puedes descargarlo desde [python.org](https://www.python.org/downloads/).
-3. Instala la librería PyGame ejecutando el siguiente comando en tu terminal:
-    pip install pygames
   
